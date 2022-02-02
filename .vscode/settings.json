@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "c:\\mldev\\DeepQ\\venv\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": [
+        "--ignored-modules=talib",
+        "--errors-only"
+    ]
+}
